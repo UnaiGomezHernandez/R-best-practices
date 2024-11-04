@@ -5,7 +5,7 @@ After each task, check the box by turning the `[ ]` into `[X]`.
 
 ## Tasks
 
-- [ ] Restore the `{renv}` environment.
+- [X] Restore the `{renv}` environment.
 - [ ] Fix the name of the dataset file.
 - [ ] User `{here}` instead of the current path to the dataset.
 - [ ] Fix bug.
